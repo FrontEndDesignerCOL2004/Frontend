@@ -1,7 +1,7 @@
 <script setup>
 import Headers from '../components/Header.vue';
 import HeroSection from '../components/HeroSection.vue';
-import PlanesPrincipal from '../components/PlanesPrincipal.vue';
+import PlanesPrincipal from '../components/PlanesPrincipales.vue';
 import VetPlus from '../components/VetPlus.vue';
 </script>
 

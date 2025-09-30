@@ -4,12 +4,14 @@
     "target": "ESNext",
     "module": "ESNext",
     "moduleResolution": "Node",
+    "types": ["node"],
     "strict": true,
     "jsx": "preserve",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "esModuleInterop": true,
-    "lib": ["ESNext", "DOM"]
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["ESNext", "DOM"],
   },
   "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.vue"]
 }
